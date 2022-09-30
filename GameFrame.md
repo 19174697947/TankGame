@@ -22,7 +22,7 @@ import java.util.List;
 import static util.Constant.*;
 
 /**
- * @author 杨金涛
+ * @author 杨xin
  * 游戏的主窗口类
  * 所有的游戏展示内容都有在该类中实现
  * 游戏被分成了若干个游戏状态
